@@ -1,4 +1,4 @@
-# ATwrite
+# ATwriter
 
 ## 使用大模型API自动生成百万字小说！😍
 

@@ -30,7 +30,7 @@
 
 新建一个py文件，例如`sample1.py`，将修改好的脚本复制进去，并在对应位置填入APIkey和base url
 
-![image-20250225140805734](.\image\image2.png)
+![image2](.\image\image2.png)
 
 在`sample1.py`的同级目录打开命令行执行` python sample1.py` 即可
 
@@ -38,4 +38,4 @@
 
 顺利的话，脚本会在同级目录下新建两个文件，其中novel.txt就是小说主体
 
-![image-20250225141019666](.\image\image3.png)
+![image3](.\image\image3.png)
